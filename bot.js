@@ -7,8 +7,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +94704209801
+//▮YOUTUBE CHANNELL: https://chat.whatsapp.com/FbIM4kqj7I1JT3xB6fcjkn
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['94704209801',''] //owner number +94704209801
+global.wame = ['94704209801'] 
+global.pemilik = ['94704209801'] //owner number +94704209801
+global.premium = ['94704209801'] //premium number +94704209801
+global.pengguna = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨' //username
+global.footer = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨'
+global.botnma = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨' //bot name
+global.botname = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨'
+global.ownernma = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨' //owner name
+global.packname = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨' //sticker package name
+global.author = '𝑷𝑹𝑨𝑩𝑶𝑫𝑯𝑨  𝑷𝑹𝑨𝑫𝑯𝑨𝑫  𝑴𝑨𝑳𝑰𝑵𝑮𝑨' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
